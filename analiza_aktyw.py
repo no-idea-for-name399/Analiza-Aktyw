@@ -1,6 +1,6 @@
 # =============================================================================
 # ANALIZA PORÓWNAWCZA KORELACJI I RYZYKA: AKTYWA TRADYCYJNE vs. KRYPTOWALUTY
-# Autor: [Twoje Imię i Nazwisko]
+# Autor: [Maksymilian Czerw]
 # Data: 2024/2025
 # Środowisko: Google Colab / Python 3.10+
 # =============================================================================
